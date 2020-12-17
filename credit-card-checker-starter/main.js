@@ -108,3 +108,5 @@ const idInvalidCardCompanies = nestedArr => {
 }
 
 idInvalidCardCompanies(batch);
+
+console.log('making some changes');
